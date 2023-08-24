@@ -21,6 +21,7 @@ mason_lspconfig.setup({
         "html",
         "tsserver",
         "sumneko_lua",
+        "pyright",
     }
 })
 
